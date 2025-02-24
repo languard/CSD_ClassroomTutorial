@@ -1,6 +1,7 @@
 Follow along with the video. The same video is used for all files.
 The point of this is to do a series of basic exercises to make sure you know how to use
 Github, Github Desktop, and Github Classroom.
+Link: https://youtu.be/WLkPJNwg528
 
 Remember to also save your demo.drawio file to the same directory as this file.
 There should be a total of 5 files when you commit: 
